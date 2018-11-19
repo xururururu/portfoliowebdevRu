@@ -264,7 +264,7 @@ h1{
     background-image: url('img/d3.png');
 }
 .project-pic-12{
-    background-image: url('img/gis.png');
+    background-image: url('img/uxresearch.png');
 }
 .project-pic-11{
     background-image: url('img/R.png');
@@ -274,15 +274,18 @@ h1{
 }
 .project-pic-9{
     background-color: grey;
-    background-image: url('img/webgl.png');
+    background-image: url('img/eduresearch.png');
     background-size: contain;
     background-repeat: no-repeat;
 }
 .project-pic-8{
-    background-image: url('img/analysis.png');
+    background-image: url('img/d4.png');
 }
 .project-pic-7{
-    background-image: url('img/balls.png');
+    background-image: url('img/comvideo.png');
+}
+.project-pic-6{
+    background-image: url('img/teachvideo.png');
 }
 
 .tech-used{
